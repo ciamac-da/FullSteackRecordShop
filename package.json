@@ -1,5 +1,5 @@
 {
-  "name": "record-shop-fullsteak",
+  "name": "fullsteak-record-shop",
   "version": "29.2.32",
   "description": "frontend und backend gleichzeitig laufen lassen",
   "main": "index.js",
